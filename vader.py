@@ -19,7 +19,7 @@ while(True):
             elif sentiment['compound'] <= -0.01:
                 print("very bad reviwe 😡🤬\n")
             else:
-                print("neutral")
+                print("neutral😉🤓/n")
         except Exception as e:
             print(e)
     else:
